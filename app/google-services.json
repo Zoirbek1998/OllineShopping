@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "879140386885",
+    "project_id": "food-ordred-admin",
+    "storage_bucket": "food-ordred-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879140386885:android:4582b7163525f21e1acb2c",
+        "android_client_info": {
+          "package_name": "com.example.foodordredadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879140386885-bggm45qekp3ecas1t3p6c185poujg70i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7tqauEKTcPlIHuAwIO8Vv9Ezp3JunQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879140386885-bggm45qekp3ecas1t3p6c185poujg70i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879140386885:android:e7a56f86e23eded41acb2c",
+        "android_client_info": {
+          "package_name": "com.example.ollineshoppingclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879140386885-bggm45qekp3ecas1t3p6c185poujg70i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7tqauEKTcPlIHuAwIO8Vv9Ezp3JunQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879140386885-bggm45qekp3ecas1t3p6c185poujg70i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

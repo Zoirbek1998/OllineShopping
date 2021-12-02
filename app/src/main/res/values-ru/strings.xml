@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olline Shopping</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="make_order">Сделать заказ</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="deleviry_address">Адрес доставки</string>
+    <string name="comment">Комментарий</string>
+    <string name="confirm_address">Подтвердите адрес</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="all_categories">Все категории</string>
+    <string name="all_products">Все продукты</string>
+</resources>

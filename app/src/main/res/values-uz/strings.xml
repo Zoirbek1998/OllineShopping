@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olline Shopping</string>
+    <string name="hello_blank_fragment">Salom bosh parcha</string>
+    <string name="make_order">Buyurtma Berish</string>
+    <string name="title_activity_maps">Xarita</string>
+    <string name="deleviry_address">Jonatma manzili</string>
+    <string name="comment">Izoh</string>
+    <string name="confirm_address">Manzilni tasdiqlang</string>
+    <string name="add_to_cart">Savatchaga qoshish</string>
+    <string name="all_categories">Barcha toifalar</string>
+    <string name="all_products">Barcha mahsulotlar</string>
+</resources>
